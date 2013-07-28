@@ -71,6 +71,8 @@ icon_DATA =						\
 	row-remove.svg					\
 	select-all.svg					\
 	select-none.svg					\
+	social-bubble.svg				\
+	social-bubble-large.svg			\
 	system-logout.svg				\
 	system-restart.svg				\
 	system-search.svg				\

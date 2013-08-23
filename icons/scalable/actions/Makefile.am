@@ -73,6 +73,8 @@ icon_DATA =						\
 	select-none.svg					\
 	social-bubble.svg				\
 	social-bubble-large.svg			\
+	social-sugar-play.svg			\
+	social-sugar-pause.svg          \
 	system-logout.svg				\
 	system-restart.svg				\
 	system-search.svg				\
